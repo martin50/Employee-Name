@@ -13,5 +13,6 @@ Job Titles: Includes diverse job roles, from Cloud Infrastructure Architects to 
 Metrics: Tracks key metrics including average annual salary, total sales, and profit by category.
 
 Purpose:
+
 This dataset is ideal for HR professionals, data analysts, and business strategists seeking to understand compensation trends and leverage data for making informed decisions related to employee retention, recruitment, and compensation strategy.
 
